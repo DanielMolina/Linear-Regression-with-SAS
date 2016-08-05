@@ -1,6 +1,6 @@
 options nodate nocenter linesize=75 pagesize=66;
 
-* input data;
+* input data and rename variables;
 
 FILENAME CSV "/folders/myfolders/PopularitySubset.csv";
 
